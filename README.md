@@ -2,6 +2,7 @@
 # EVEPSY
 
 #### Expandable Vegetable Production System
+https://docs.google.com/presentation/d/1lVZBOLCaCrEEkfVHTdLvtDFQII4AP4b9-GMUIA9akeo/edit?usp=sharing
 
 ##### 03.10.2021	Scientific Mandarins
 
