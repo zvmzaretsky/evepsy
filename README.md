@@ -31,8 +31,8 @@ Gases will also be controlled. This will solve problem that plants have differen
      menu at the top of the window.
 
 ### Connect the sensors to the microcontroller pins:
-   DHT11/DHT22 - D2
-   FAN MOSFET  - D8
-   LED MOSFET  - D9
-   HUMIDIFIER  - D7
+   - DHT11/DHT22 - D2
+   - FAN MOSFET  - D8
+   - LED MOSFET  - D9
+   - HUMIDIFIER  - D7
 
