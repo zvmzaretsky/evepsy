@@ -1,9 +1,9 @@
 
------------------------- EVEPSY ------------------------
+# EVEPSY
 
-Expandable Vegetable Production System
+#### Expandable Vegetable Production System
 
-03.10.2021	Scientific Mandarins
+##### 03.10.2021	Scientific Mandarins
 
 We are creating plant life support system to improve crew's health and productivity during the Mars trip. Our system is a transformable external module, during the flight it can be extended. During the returning from Mars crew will use 100% of the system power, but on the way to the Mars they will need only 30%. Our module allows to avoid taking additional space, it will take only as much as required for the current period. This makes our system comfortable and effective in use.
 
@@ -21,7 +21,7 @@ LED strips will raise temperature inside the module, so if necessary, cooling sy
 
 Gases will also be controlled. This will solve problem that plants have different gas exchange rate during their life
 
-How to run a project:
+### How to run a project:
   1. You need to install Arduino IDE and unpack 
      the libraries into the "libraries" folder.
   2. Open the file "EVEPSY" in Arduino IDE.
@@ -30,7 +30,7 @@ How to run a project:
   4. Press the "Load" button in the context 
      menu at the top of the window.
 
-Connect the sensors to the microcontroller pins:
+### Connect the sensors to the microcontroller pins:
    DHT11/DHT22 - D2
    FAN MOSFET  - D8
    LED MOSFET  - D9
